@@ -9,11 +9,11 @@
  
  Currently, the program only supports Player1 driving as Magnussen for McLaren and Player2 as Raikkonen for Ferrari.
  
- The program only tracks points for the top 4 constructors (Mercedes, Ferrari, RedBull, McLaren) and their Drivers.
+ The program only tracks points for the Top 4 Constructors (Mercedes, Ferrari, RedBull, McLaren) and their Drivers.
  
  You have to type in the places after each race for each driver seperately.
  
- Driver and Constructor tables show the difference to the current leader.
+ Drivers and Constructors table shows the difference to the current leader.
  
 # Usage
  Run the executable F1Pointsmanager.exe from the ./debug folder
