@@ -12,7 +12,7 @@ void run() {
 
 	//init Players
 	std::string playerName, teamName; int num;
-	//Player1
+	//Player1 testinglol
 	std::cout << "Name Spieler 1: "; std::cin >> playerName;
 	std::cout << "Team Spieler 1 (1-Ferrari, 2-McLaren, 3-RedBull, 4-Mercedes): "; std::cin >> num;
 	teamName = teamSwitch(num);
