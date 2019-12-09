@@ -3,6 +3,7 @@
 
 //outsourced Main
 void run() {
+    //for emptying constructors list
 	int test = 0;
 
 	//welcome
