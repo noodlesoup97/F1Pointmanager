@@ -2,21 +2,25 @@
  Version 1.0
  
 # Description
- Since F1 2014 does not provide a automatic mechanism to count the drivers/teams points in a splitscreen season, this program gives        a solution for the problem.
+ Since F1 2014 dropped the drivers/constructors point-recognition in splitscreen mode, this project presents a point-storing console program so that you can track the point course of a season :)
  
 # Features
  Points for an entire F1 2014 season can be tracked for Drivers as well as for Constructors.
  
- Currently, the program only supports one player driving as Magnussen for McLaren and the other one as Raikkonen for Ferrari.
+ Currently, the program only supports Player1 driving as Magnussen for McLaren and Player2 as Raikkonen for Ferrari.
  
- The program only tracks points for the top 4 constructors (Mercedes, Ferrari, RedBull, McLaren) and its Drivers.
+ The program only tracks points for the top 4 constructors (Mercedes, Ferrari, RedBull, McLaren) and their Drivers.
  
  You have to type in the places after each race for each driver seperately.
  
-# Requirements
- Written in C++ with Microsoft Visual Studio 2019.
- The ./debug contains an executable F1Pointsmanager.exe file
+ Driver and Constructor tables show the difference to the current leader.
  
- # Copyright
+# Usage
+ Run the executable F1Pointsmanager.exe from the ./debug folder
+ 
+ # Additionals
+ Written in C++ with Microsoft Visual Studio 2019.
+ 
  This program should be used for entertaining purposes only.
+ 
  (c) Robert Heinemann - 2019
