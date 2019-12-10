@@ -15,8 +15,6 @@
  
  Drivers and Constructors table shows the difference to the current leader.
  
-# Usage
- Run the executable F1Pointsmanager.exe from the ./debug folder
  
  # Additionals
  Written in C++ with Microsoft Visual Studio 2019.
