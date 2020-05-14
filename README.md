@@ -16,9 +16,4 @@
  Drivers and Constructors table shows the difference to the current leader.
  
  
- # Additionals
- Written in C++ with Microsoft Visual Studio 2019.
- 
- This program should be used for entertaining purposes only.
- 
- (c) Robert Heinemann - 2019
+ (c) Robert Heinemann - 2016
